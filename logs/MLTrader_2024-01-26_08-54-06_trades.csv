@@ -1,5 +1,0 @@
-time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
-2020-03-13 09:30:00-04:00,MLTrader,IMO,sell,market,new,1,gtc,0.0,1,stock,,,
-2020-03-13 09:30:00-04:00,MLTrader,IMO,sell,market,fill,1,gtc,0.0,1,stock,12.40999984741211,4029,0.0
-2020-03-16 08:30:00-04:00,MLTrader,IMO,buy,stop,canceled,1,day,0.0,1,stock,,,
-2020-03-16 08:30:00-04:00,MLTrader,IMO,buy,limit,fill,1,day,0.0,1,stock,9.927999877929688,4029,0.0
